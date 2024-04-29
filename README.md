@@ -14,7 +14,7 @@ Alternatively, find me on telegram! (Keep all support questions in the support c
 You can also join our support group [here](https://t.me/TokisakiSupportChat)
 
 ## Deploy To Heroku
-[![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MickeyxD/TokisakiRobot)
+[![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vikku1343/TokisakiRobot)
 
 ## Bot
 Available On Telegram As [𝐓ᴏᴋɪsᴀᴋɪ 𝐊ᴜʀᴜᴍɪ](https://t.me/Tokisaki_Robot)
